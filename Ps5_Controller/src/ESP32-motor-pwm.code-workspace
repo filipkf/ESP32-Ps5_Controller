@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../ESP32-motor-pwm"
+		},
+		{
+			"name": "Ps5_Controller",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
